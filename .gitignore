@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Session & credentials (NEVER commit these)
+amazon_session.json
+~$*.xlsx
+
+# Debug artifacts
+debug_*.png
+debug_*.html
+
+# Progress checkpoint (regenerated on run)
+progress.json
+
+# IDE
+.vscode/
+
+# Old copies
+amazon_now_checker - Copy/
+amazon_now_checker - Copy.zip
+
+# OS files
+Thumbs.db
+.DS_Store
